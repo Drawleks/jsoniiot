@@ -1,8 +1,10 @@
-[
-  {
-    "String": "  whitespaces everywhere  .  ",
-    "Enumeration": "1,2",
-    "Number": "1",
-    "Boolean": "true"
-  }
-]
+{
+  "test": [
+    {
+      "String": "  whitespaces  everywhere  .  ",
+      "Enumeration": "1,2",
+      "Number": "2",
+      "Boolean": "true"
+    }
+  ]
+}
